@@ -1,0 +1,5 @@
+-rw-rw-r-- 1 psutton psutton 39941 Jun 18 23:32 get started.odt - simple
+-getting started guide - libreoffice writer 
+-rw-rw-r-- 1 psutton psutton 43869 Jun 23 16:03 get started.pdf - simple
+-getting started guide - pdf format
+-rw-rw-r-- 1 psutton psutton     0 Jun 23 16:07 readme.txt - this file
