@@ -1,0 +1,22 @@
+NOTES ON LINUX AND INTERACTIVE WHITE BOARDS
+
+
+Looks like we need to use 
+
+evdev - EVent DEVice
+
+this is a set of drivers 
+
+events register as keyboard / mouse events
+
+man page info http://en.digipedia.org/man/doc/view/evdev.4/
+
+plug in and type lsusb to see if device is listed
+
+run dmesg to see if it is detected by the kernel
+
+dmesg /dev/input
+
+xorg will work with smartboards
+
+xserver-xorg-input-evdev
